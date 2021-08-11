@@ -29,3 +29,5 @@ exclude:
 - script
 - vendor
 
+
+theme: jekyll-theme-cayman
