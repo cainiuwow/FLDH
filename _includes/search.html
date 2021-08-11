@@ -1,0 +1,17 @@
+<div class="ui text container">
+    <h1 class="ui inverted header"><img src="{{ '/images/logo.png' | relative_url }}" border=0 alt="法林logo"></h1>
+    <h2>{{ site.name }}</h2>
+    <div class="ui inverted fluid left icon right action input" id="search-div">
+        <input id="search-query" type="text" placeholder="立即搜索">
+        <select id="search-services" class="ui compact selection dropdown">
+            {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}">{{ item.name }}</option>{% endfor %}
+        </select>
+        <div id="search-button" type="submit" class="ui icon button">Go</div>
+    </div>
+    <div class="ui labels shortcuts">
+        {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.style }} label" data-search-service-id="{{ item.id }}">{% if item.icon %}<i class="{{ item.icon }} icon"></i>{% endif %}{{ item.shortcut }}</a>{% endif %}{% endfor %}
+    </div>
+    <div class="ui inverted link list">
+        <a class="item loading-trigger" href="{{ '/donate/' | relative_url }}">人生最大的快乐不在于占有什么，而在于追求什么的过程。</a>
+    </div>
+</div>

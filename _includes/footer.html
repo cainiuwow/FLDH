@@ -1,0 +1,38 @@
+<div class="ui inverted vertical footer segment">
+    <div class="ui container">
+        <div class="ui stackable inverted divided equal height stackable grid">
+            <div class="three wide column">
+                <h4 class="ui inverted header">Powered by</h4>
+                <div class="ui inverted link list">
+                    {% for item in site.data.powered_by %}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endfor %}
+                </div>
+            </div>
+    <div class="three wide column">
+        <h4 class="ui inverted header">WeChat Accounts</h4>
+            <div class="wechat">
+                <img class="ui centered medium rounded bordered image" src="{{ '/images/donate/falin.jpg' | relative_url }}" alt="falin.jpg">
+            </div>
+    </div>
+    <div class="three wide column">
+             <h4 class="ui inverted header">{{ site.name }}</h4>
+                <div class="ui inverted link list">
+                    <div class="item">&copy;2017 {{ site.organization }}</div>
+                    <div class="item">Designed and built with all the love and passion in the world by {{ site.author }}.</div>
+                    <a class="item" href="https://zhuanlan.zhihu.com/p/26387308" target="_blank">如果有好的建议，请点击留言</a>
+                </div>
+    </div>
+            <div class="seven wide column">
+                <h4 class="ui inverted header">About</h4>
+                <div class="ui inverted link list">
+                  <div class="item">仅靠单一工具/方法是很难做到工作效率的提高，需要的是多个工具、方法互相配合才能有效的提高工作效率。这就是我搭建这个网址导航的目的之一。</div>
+                  <div class="item">网址导航的使用方法是将导航网址设置为首页+新标签页，让每次打开浏览器或者新建标签时自动打开此导航。本次已经将网站迁移到香港，访问速度在2秒以内，如果有缓存，一般能在1秒内打开，不比浏览器自带的访问速度慢。</div>
+                  <div class="item">可能你第一次使用觉得很不方便或很乱，你只要适应一段时间之后，就会发现网站能大大提供工作效率。</div>
+<!--                    <a class="item" href="{{ site.author_url }}" target="_blank">{{ site.author }}</a>
+                    <a class="item" href="{{ site.organization_url }}" target="_blank">{{ site.organization }}</a>  
+-->
+                </div> 
+              
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,507 @@
+- section: public
+  categories:
+  - category: 生活
+    links:
+    - name: 微信网页版
+      style: basic
+      url: http://wx.qq.com/
+
+    - name: 微信读书
+      style: basic
+      url: https://weread.qq.com
+
+    - name: 淘宝网
+      style: orange
+      url: http://www.taobao.com
+
+    - name: 京东
+      style: red
+      url: http://www.jd.com/
+
+    - name: 美团网
+      style: yellow
+      url: http://www.meituan.com/
+
+    - name: 微博
+      style: basic
+      url: http://weibo.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 博海拾贝
+      style: basic
+      url: https://bohaishibei.com
+
+    - name: 喷嚏网
+      style: basic
+      url: http://www.dapenti.com/blog/index.asp
+
+    - name: 下厨房
+      style: basic
+      url: https://www.xiachufang.com
+
+    - name: 什么值得买
+      style: basic
+      url: https://www.smzdm.com
+
+    - name: 果壳网
+      style: basic
+      url: https://www.guokr.com/
+
+    - name: 数字尾巴
+      style: basic
+      url: http://www.dgtle.com/
+
+    - name: 少数派
+      style: basic
+      url: https://sspai.com/
+
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
+
+    - name: Bilibili
+      style: basic
+      url: https://www.bilibili.com/
+
+  - category: 工具
+    links:
+
+    - name: QQ邮箱
+      style: basic
+      url: http://mail.qq.com/
+
+    - name: 腾讯企业邮箱
+      style: blue
+      url: https://exmail.qq.com/login
+
+    - name: 网易邮箱
+      style: basic
+      url: http://email.163.com/
+
+    - name: Gmail
+      style: basic
+      url: http://mail.google.com/
+
+    - name: 飞猪旅行
+      style: basic
+      url: https://www.alitrip.com
+
+    - name: 百度网盘
+      style: basic
+      url: https://pan.baidu.com/
+
+    - name: 百度地图
+      style: basic
+      url: http://map.baidu.com/
+
+    - name: 百度翻译
+      style: basic
+      url: http://fanyi.baidu.com/
+
+    - name: 快递查询
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 百度脑图
+      style: red
+      url: https://naotu.baidu.com/
+
+    - name: Processon
+      style: blue
+      url: https://www.processon.com/
+
+    - name: 视频/音频格式转换
+      style: basic
+      url: http://www.alltoall.net/amr_mp3/
+
+    - name: PDF全格式转换
+      style: basic
+      url: https://smallpdf.com/cn
+
+    - name: 图片压缩
+      style: basic
+      url: https://www.yasuotu.com/
+
+    - name: OCR文字识别
+      style: basic
+      url: http://www.ocrmaker.com/
+
+    - name: 石墨文档
+      style: basic
+      url: https://shimo.im/welcome
+
+    - name: 秘塔写作猫
+      style: blue
+      url: https://xiezuocat.com/#/
+
+  - category: 知识/资讯
+    links:
+
+    - name: 知乎
+      style: blue
+      url: http://www.zhihu.com/
+
+    - name: Quora
+      style: basic
+      url: http://www.quora.com
+
+    - name: 简书
+      style: basic
+      url: https://www.jianshu.com/
+
+    - name: 豆瓣读书
+      style: basic
+      url: https://book.douban.com/
+
+    - name: 学术搜索
+      style: basic
+      url: https://scholar.chongbuluo.com/
+
+    - name: 知网
+      style: basic
+      url: https://www.cnki.net/
+
+    - name: 爱学术
+      style: basic
+      url: https://www.ixueshu.com/
+
+    - name: 百度百科
+      style: basic
+      url: http://baike.baidu.com/
+
+    - name: 司法部
+      style: basic
+      url: http://www.moj.gov.cn
+
+    - name: 普法网
+      style: basic
+      url: http://www.legalinfo.gov.cn/
+
+    - name: 庭审直播
+      style: basic
+      url: http://tingshen.court.gov.cn
+
+    - name: CPA
+      style: basic
+      url: http://www.cicpa.org.cn
+
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+    - name: TED
+      style: basic
+      url: https://www.ted.com/
+
+    - name: 可汗学院
+      style: basic
+      url: https://www.khanacademy.org
+
+    - name: 中国大学MOOC
+      style: basic
+      url: https://www.icourse163.org/
+
+    - name: 点睛网
+      style: basic
+      url: http://www.zfwx.com/wxqt/
+
+    - name: 大家论坛
+      style: basic
+      url: http://club.topsage.com
+
+    - name: 视野论坛
+      style: basic
+      url: http://bbs.esnai.com/forum-16-1.html
+
+    - name: 北大法宝律师培训
+      style: basic
+      url: http://www.aclaedu.cn/
+
+  - category: 法律 | 案例
+    links:
+
+    - name: 无訟案例
+      style: blue
+      url: http://www.itslaw.com/bj
+      
+    - name: 法律数据库
+      style: red
+      url: http://www.xue338.com/
+      
+    - name: 北大法宝
+      style: basic
+      url: http://pkulaw.cn/
+
+    - name: 元典智库
+      style: basic
+      url: http://www.chineselaw.com
+
+    - name: 威科先行
+      style: basic
+      url: http://law.wkinfo.com.cn/
+
+    - name: 裁判文书网
+      style: red
+      url: http://wenshu.court.gov.cn/
+
+    - name: 聚法案例
+      style: blue
+      url: https://www.jufaanli.com/
+
+    - name: CaseShare
+      style: basic
+      url: http://caseshare.cn
+
+    - name: 法信
+      style: basic
+      url: http://www.faxin.cn/index.aspx
+
+    - name: 法律法规数据库
+      style: basic
+      url: http://search.chinalaw.gov.cn/search2.html
+
+    - name: 全球法律
+      style: basic
+      url: http://policy.mofcom.gov.cn/law/index.shtml
+
+    - name: 法律图书馆
+      style: basic
+      url: http://www.law-lib.com/
+
+    - name: 最高院法律文库
+      style: basic
+      url: http://www.chinacourt.org/law.shtml
+
+    - name: 国务院法规检索
+      style: basic
+      url: http://search.chinalaw.gov.cn/search2.html
+
+    - name: 把手案例
+      style: basic
+      url: http://www.lawsdata.com/
+
+    - name: 理脉
+      style: basic
+      url: https://www.legalminer.com/search_index
+
+    - name: 中国人民银行条法司
+      style: basic
+      url: http://www.pbc.gov.cn/tiaofasi/144941/index.html
+
+    - name: 征信中国
+      style: basic
+      url: http://www.pbccrc.org.cn/
+
+- section: byr
+  categories:
+  - category: 企业公示系统
+    links:
+
+    - name: 企业公示系统
+      style: orange
+      url: http://www.samr.gov.cn/fw/wyc/
+
+    - name: 黑龙江政务服务网
+      style: blue
+      url: http://zwfw.hlj.gov.cn
+
+    - name: 信用中国
+      style: basic
+      url: https://www.creditchina.gov.cn/
+
+    - name: 政府采购违法失信记录
+      style: basic
+      url: http://www.ccgp.gov.cn/cr/list
+
+    - name: 天眼查
+      style: blue
+      url: https://www.tianyancha.com/
+
+    - name: 企查查
+      style: basic
+      url: https://www.qichacha.com/
+
+    - name: 启信宝
+      style: basic
+      url: http://www.qixin.com
+
+    - name: 新三板系统
+      style: basic
+      url: http://www.neeq.com.cn/disclosure/announcement.html
+
+    - name: 巨潮资信网
+      style: basic
+      url: http://www.cninfo.com.cn/
+
+    - name: 社会组织查询
+      style: basic
+      url: http://www.chinanpo.gov.cn/search/searchOrgList.do?action=searchOrgList
+
+    - name: 中基协
+      style: basic
+      url: http://www.amac.org.cn
+
+    - name: 香港企业信息
+      style: basic
+      url: https://www.icris.cr.gov.hk/csci/
+
+    - name: 台湾企业信息
+      style: basic
+      url: http://gcis.nat.gov.tw/mainNew/
+
+    - name: 英国企业信息
+      style: basic
+      url: https://www.gov.uk/government/organisations/companies-house
+
+    - name:  美国上市公司信息
+      style: basic
+      url: https://www.sec.gov/
+
+  - category: 审批 | 许可
+    links:
+
+    - name: 国监局-登记/质安/食品/直销/动产抵押/召回/特种设备
+      style: red
+      url: http://www.gsxt.gov.cn/index.html
+
+    - name: 建筑行业各类资质查询
+      style: basic
+      url: http://jzsc.mohurd.gov.cn/asite/jsbpp/index
+
+    - name: 土地市场信息查询
+      style: basic
+      url: http://www.landchina.com/?WebShieldDRSessionVerify=nf0DgYR5uNSUd3vlEt1f
+
+    - name: 食品、药品查询
+      style: basic
+      url: http://app1.sfda.gov.cn/datasearch/face3/dir.html
+
+    - name: 商标查询
+      style: basic
+      url: http://wsjs.saic.gov.cn/
+
+    - name: 专利查询
+      style: basic
+      url: http://pss-system.cnipa.gov.cn/
+
+    - name: 网站备案查询
+      style: basic
+      url: http://www.miitbeian.gov.cn/publish/query/indexFirst.action
+
+    - name: 工业产品生产许可
+      style: basic
+      url: http://gyxkz.aqsiq.gov.cn/eiss/zj_hzqy_query?model=00000000000000010194&nid=000261
+
+    - name: 中国货币网
+      style: basic
+      url: http://www.chinamoney.com.cn/index.html
+
+    - name: WIPO品牌数据库
+      style: basic
+      url: http://www.wipo.int/branddb/en/
+
+    - name: 中国版权保护中心
+      style: basic
+      url: http://www.ccopyright.com
+
+    - name: 电信类经营许可
+      style: basic
+      url: https://tsm.miit.gov.cn/dxxzsp/
+
+    - name: 动产融资统一登记公示系统
+      style: red
+      url: https://www.zhongdengwang.org.cn/
+
+  - category: 律师工具
+    links:
+
+    - name: 文书样式
+      style: red
+      url: http://www.court.gov.cn/susongyangshi-75.html
+
+    - name: 极客合同
+      style: basic
+      url: https://www.geekcontract.com/index.html
+
+    - name: 法天使合同
+      style: basic
+      url: https://www.fatianshi.cn/templates?p=0&m=0&g=0&ccd=null
+
+    - name: 联合信任时间戳服务中心
+      style: red
+      url: https://www.tsa.cn/html/index.html
+
+    - name: 现行利率
+      style: red
+      url: http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/index.html
+
+    - name: 诉讼费计算
+      style: basic
+      url: http://www.cnado.com
+
+    - name: 利息计算
+      style: basic
+      url: http://www.iflawyer.com/interest.asp
+
+    - name: 天数计算
+      style: basic
+      url: http://wannianli.tianqi.com/jisuanqi/
+
+    - name: 年龄计算
+      style: basic
+      url: https://shijisuishu.51240.com/shijisuishu/
+
+    - name: 汇率换算
+      style: basic
+      url: http://hl.anseo.cn/cal_USD_To_CNY.aspx
+
+    - name: 房贷计算器
+      style: basic
+      url: https://www.fangdaijisuanqi.com/
+
+    - name: 个税计算器
+      style: basic
+      url: http://geshui.ttvz.com/
+
+    - name: 身份证号查询
+      style: basic
+      url: http://id.weixingmap.com/
+
+    - name: 手机号归属
+      style: basic
+      url: https://tool.lu/mobile/
+
+    - name: 银行卡号归属
+      style: basic
+      url: http://www.atool9.com/bank.php
+
+    - name: 民事案由
+      style: basic
+      url: http://www.court.gov.cn/fabu-xiangqing-3456.html
+
+    - name: 刑事罪名
+      style: basic
+      url: http://www.zuiming.net/51.html
+
+    - name: 公告查询
+      style: red
+      url: http://rmfygg.court.gov.cn
+
+    - name: 执行信息公开网
+      style: red
+      url: http://zxgk.court.gov.cn/
+
+    - name: 被执行人信息查询
+      style: basic
+      url: http://zxgk.court.gov.cn/zhixing/
+
+    - name: 减刑/假释/暂予监外执行
+      style: basic
+      url: http://jxjs.court.gov.cn/
+
+    - name: 破产重整信息
+      style: basic
+      url: http://jxjs.court.gov.cn/http://pccz.court.gov.cn/
